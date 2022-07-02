@@ -1,5 +1,5 @@
 # Big-Data-Analytics-on-the-state-of-Mental-Health-Support-in-the-Technology-Industry
-This project examines the state of mental health support for employees within the tech industry and how it has evolved over the years 2014 to 2019 using the survey datasets from OSMI, an organization that conducts annual surveys to generate a better understanding of how mental health is addressed within tech companies.
+This project examines the state of mental health support for employees within the tech industry and how it has evolved over the years 2014 to 2019 using the survey datasets from OSMI, an organization that conducts annual surveys to generate a better understanding of how mental health is addressed within tech companies.<br>
 Dataset acquired from => https://osmhhelp.org/research <br> 
 <br>
 
