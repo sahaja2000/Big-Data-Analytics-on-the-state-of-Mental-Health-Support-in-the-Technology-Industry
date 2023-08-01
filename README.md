@@ -12,6 +12,6 @@ Mental health disorders affect 990 million individuals worldwide.
 Especially, in the technology industry, people are often seemed to be dealing with mental health issues as it is the most competitive industry. According to recent statistics by Global Health Data exchange, mental health problem has been detected in 51% of tech employees and has impacted their performance by 71%. Employees usually keep their mental problems to themselves rather than seeking help as talking about mental health disorders is highly stigmatized in our society, especially in the workplace. 
 Thus, I wanted to do some analysis on this matter and come up with some ideas to enhance the state of mental health support among the employees.<br>
 
-Detailed analysis and findings have been discussed in the analysis report. 
+Detailed analysis and findings have been discussed in the analysis report and jupyter notebook file. 
 
 
